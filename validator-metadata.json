@@ -1,7 +1,20 @@
 {
+  "pub_key": "BLS_VER_KEY~Jdvc2GXov1ydIbNrHZCFNoWdXcwUgV7TncMqDXf9bgr1jhhTkzvB0yBePTwuyhZUKkz99VkojqH77AsHEBZEL3b1KLRnCS54-bTiUYA59sbG8Fd23eydIa4WghzDqgAZVdIewi5WHyYmy0bCbJmAMulUSDTZ73xR7mwuxjlXJ509",
   "name": "Winsnip",
   "description": "Secure, reliable validation infrastructure with competitive rates and proven performance across multiple networks.",
-  "website": "https://winsnip.xyz",
-  "contact": "admin@winsnip.xyz",
-  "logo": "https://raw.githubusercontent.com/winsnip-official/winsnip-kit/refs/heads/main/winsnip.jpg"
+  "company_name": "Winsnip",
+  "company_website": "https://winsnip.xyz",
+  "client_version": "1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/winsnip-official/winsnip-kit/refs/heads/main/winsnip.jpg",
+      "@2x": "https://raw.githubusercontent.com/winsnip-official/winsnip-kit/refs/heads/main/winsnip.jpg",
+      "@3x": "https://raw.githubusercontent.com/winsnip-official/winsnip-kit/refs/heads/main/winsnip.jpg"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/winsnip-official/winsnip-kit/refs/heads/main/winsnip.jpg",
+      "@2x": "https://raw.githubusercontent.com/winsnip-official/winsnip-kit/refs/heads/main/winsnip.jpg",
+      "@3x": "https://raw.githubusercontent.com/winsnip-official/winsnip-kit/refs/heads/main/winsnip.jpg"
+    }
+  }
 }
